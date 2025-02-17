@@ -6,7 +6,7 @@
  *
  *  Course: CS 242
  *  Team members: Aidan Jurevich, Riley Ramcharran
- *  Collaborators: 
+ *  Collaborators: Eric Kouperman, Alex Westfal
  *  References: 
  *
  *  Assignment: 1
