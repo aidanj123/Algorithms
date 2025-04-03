@@ -27,8 +27,8 @@ public class HW2 {
 
         int[] A2 = A1;
 
-        System.out.println(A1);
-        System.out.println(A2);
+        System.out.println(A1.toString());
+        System.out.println(A2.toString());
 
         scanner.close();
     }
