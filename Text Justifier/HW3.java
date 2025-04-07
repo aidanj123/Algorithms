@@ -6,7 +6,6 @@ public class HW3 {
                     "lives" , "are" , "beginning" , "to" , "erode" , "and" , "awkward" , "situations" , "have" , "ensued." }; 
     static int n = W.length;
     static int i = 0;
-    //W.length = 44
     static int j = 5;
 
 
