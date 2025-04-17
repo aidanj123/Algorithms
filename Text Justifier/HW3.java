@@ -27,11 +27,6 @@
  *  String spacedLine(String[] W, int[] L, int w, int i) - creates a single justified line of text with spacing.
  *  String[] parseWords(String filePath) - parses the words from a file and returns them as an array.
  *
- *   Remarks
- *   
- *   Any text can be used as an input by pasting it into unjust.txt. The output is just.txt
- *
- *
  *************************************************************************/
 import java.io.BufferedReader;
 import java.io.FileReader;
