@@ -1,4 +1,3 @@
-package HW1;
 /*************************************************************************
  *
  *  Pace University
@@ -8,7 +7,6 @@ package HW1;
  *  Course: CS 242
  *  Team members: Aidan Jurevich, Riley Ramcharran
  *  Collaborators: Eric Kouperman, Alex Westfal
- *  References: 
  *
  *  Assignment: 1
  *  Problem: 1-4
@@ -47,6 +45,7 @@ package HW1;
  *
  *
  *************************************************************************/
+package MaximumSubarrayProblem;
 import java.util.Scanner;
 
 public class hw1 {
